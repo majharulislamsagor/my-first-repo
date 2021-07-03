@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<br lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monetize Life IT</title>
+    <link rel="icon" href="monetize.png">
+    <style>
+      h1{
+          color: rgb(89, 0, 255);
+          background-color:50px darkgrey;
+          border:10px solid rgb(255, 7, 222);
+          border-radius: 10%;
+          padding-left: 15px;
+          margin-top: 10px;
+          margin-bottom: 20px;
+          width: 300px;
+          margin: 0 auto;
+      }
+      #services{
+          color: navy;
+          background-color: olive;
+          border:10px solid cornflowerblue;
+          border-radius: 10px;
+          margin-top: 10px;
+          margin-bottom:10px ;
+          margin-right: 30px;
+          margin-left: 30px;
+          padding: 50px;
+          width: 90%;
+          text-align: senter;
+      }
+    h2{
+        color: crimson;
+        background-color: darkgoldenrod;
+    }
+
+    h3{
+        color: olivedrab;
+    }
+
+    .servic{
+        color: navy;
+    }
+    .monetizelife{
+        color: darkblue;
+    }
+    
+    </style>
+</head>
+<br>
+    <h1> <a href="https://www.facebook.com/monetizelife/?ref=pages_you_manage">Monetize life IT Firm</a></h1>
+    
+    <h2 id="about" About- </h2>
+    <h3>
+        MonetizeLife IT firm, we have different employees who handle different sectors.
+        Specifically we are Digital Marketers & Web Developers.
+    </h3>
+    <h2>impresium-</h2>
+    <h3>
+        Our enterprise Monetize life IT farm is made to provide quality service. We always want to play the most important role to Increase the social value of your business or you. You are very important to us.
+    </h3>
+<div>
+<h1>Here is our services-</h1>
+<div id="services">
+    <h3 class="servic">
+    01. Website Developing. <br>
+    02. Website Design.<br>
+    03. Website Management.<br>
+    04. Website Builders & CMS<br>
+    05. Search Engine Optimization. (SEO)<br>
+    06. Social media Ad marketing.<br>
+    07. Social media or business page Management.<br>
+    08. Social media content design<br>
+    09. Instagram Followers for Sell.<br>
+    10. Instagram Organic Followers Increase.<br>
+    11. Facebook & Instagram Ad Campaign.<br>
+    12. LinkedIn Marketing & Management.<br>
+    13. Online Business Management.<br>
+    14. Google Ad Campaign.<br>
+    15. Sales Marketing.<br>
+    16. Virtual Assistant.<br>
+    17. Lead Generation.<br>
+    18. Email Marketing (Email Campaign, Bulk mailing sending)<br>
+    19. Email Address Leads For Sell (Any country, Worldwide)<br>
+    20. Logo Design.<br>
+    21. Etc.<br></br>
+    The best and trusted service is here. <br></br>
+    Our Goal is to help my client to achieve goals and take their business to the next level. <br>
+    I have good Wisdom of Management, Marketing & more. We will do all Digital Marketing, Website Development, website design, Resolution & Social Media Progress <br></>
+    For more information contact with us on our contact information
+</h3>
+</div>
+
+<div>
+    <h2>Content Information-</h2>
+<h3
+    class="monetizelife" MonetizeLife IT Firm <br>
+    Location : Sumilpara, 1431 Narayanganj, Bangladesh.<br>
+    E-mail : monetizelife.info@gmail.com<br>
+    Mobile : +8801874261104, +8801815636416 (Whatsapp/Telegram)<br>
+    Note : We all work hard with each other's help, our team's prime vision is to serve the customers.<br>
+    Extra Note: Nothing is free in this world Only serious queries please.<br>
+
+
+</h3>
+</div>
+
+</body>
+</html>
